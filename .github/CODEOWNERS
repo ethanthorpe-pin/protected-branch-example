@@ -1,3 +1,4 @@
-@ethanthorpe-pin
-ethan.thorpe@payitnow.info
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-syntax
+# You can specify either their GitHub @ or their email
+*	@ethanthorpe-pin ethan.thorpe@payitnow.info
 
